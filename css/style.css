@@ -27,6 +27,9 @@ h2{
     margin-bottom: -20px;
 }
 
+h3 { 
+    color: grey;
+}
 .scritto-da{
     color: grey;
 }
