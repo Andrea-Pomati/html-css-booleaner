@@ -55,7 +55,11 @@ h3 {
 
 .wikimedia {
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
+}
+
+.evidenzio-porro {
+    background-color: yellow;
 }
 
 .lista {
