@@ -6,6 +6,9 @@ main {
     margin-left: 180px;
 }
 
+footer {
+    margin-left: 180px;
+}
 
 
 .parte-superiore {
@@ -81,6 +84,10 @@ h3 {
 
 .voluptas {
     background-color: yellow;
+}
+
+.potrebbero{
+    color: grey;
 }
 
 
