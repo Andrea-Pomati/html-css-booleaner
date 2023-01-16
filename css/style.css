@@ -6,8 +6,6 @@ main {
     margin-left: 180px;
 }
 
-
-
 .parte-superiore {
     background-image:url(../img/pattern.png);
     background-color: rgb(45,171,255);
@@ -65,5 +63,10 @@ h3 {
 .lista {
         padding: 15px;
     }
+
+.intestazione{
+    background-color:rgb(61, 161, 255);
+    color: white;
+}
 
 
