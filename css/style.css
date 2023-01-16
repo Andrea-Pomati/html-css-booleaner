@@ -38,6 +38,16 @@ h3 {
     color:aqua;
 }
 
+.unotim{
+    height: 400px;
+    width: 500px;
+}
+
+.duetim{
+    height: 400px;
+    width: 500px;
+}
+
 .lista {
         padding: 15px;
     }
